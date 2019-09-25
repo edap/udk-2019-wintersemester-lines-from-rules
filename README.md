@@ -1,7 +1,8 @@
 # Lines from rules
 
-How little is needed to create a visual composition?
+How little is needed to create a visual composition? this course will focus on how to obtain generative forms with the smallest amount of code possible.
 
+The goal of this course is to explore simplicyt 
 You, your keyboard and the quest for the smallest set of instruction that draws on a computer screen.
 
 ![cover](img/cover-small.png)
@@ -17,7 +18,7 @@ Create a sketch using your favourite creative coding framework (Processing, open
 
 - Read the wikipedia article on [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 - Write down on a piece of paper what each line is doing, as you were explain your code to a rubber duck.
-- Propose 3 variations of your program. For each variation write down what did you change and how it affects the visual output.
+- Propose 3 variations of your sketch. For each variation write down what did you change and how it affects the visual output.
 
 P.S.
 - The 5 lines of code have to be in the `draw` method. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, or that one that in Processing goes into the `setup` method, does not count.
@@ -28,7 +29,9 @@ P.S.
 These are the references for this semester.
 
 [The Minimalist Manifesto](http://atc.berkeley.edu/201/readings/judd-so.pdf), by Donald Judd.
+
 [Grapefruit](https://en.wikipedia.org/wiki/Grapefruit_(book)), by Yoko Ono.
+
 [Line Describing a cone](https://vimeo.com/155042007)
 
 
