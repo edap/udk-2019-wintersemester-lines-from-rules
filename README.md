@@ -26,8 +26,6 @@ P.S.
 
 ## References
 
-These are the references for this semester.
-
 [The Minimalist Manifesto](http://atc.berkeley.edu/201/readings/judd-so.pdf), by Donald Judd.
 
 [Grapefruit](https://en.wikipedia.org/wiki/Grapefruit_(book)), by Yoko Ono.
