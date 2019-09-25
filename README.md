@@ -1,10 +1,7 @@
 # Lines from rules
 
-How little is needed to create a visual composition? this course will focus on how to obtain generative forms with the smallest amount of code possible.
-
-
-
-You, your keyboard and the quest for the smallest set of instruction that draws on a computer screen.
+How little is needed to create a visual composition? this course focuses on how to obtain generative forms with the smallest amount of code possible.
+The students will code a set of rules and instructions to draw lines, squares, points and circles on the computer's screen.
 
 ![cover](img/cover-small.png)
 
@@ -31,7 +28,9 @@ P.S.
 
 [Grapefruit](https://en.wikipedia.org/wiki/Grapefruit_(book)), by Yoko Ono.
 
-[Wall Drawings](https://solvingsol.com/), by Sol LeWitt.
+[Wall Drawings 1](http://radicalart.info/concept/LeWitt/), [2](https://massmoca.org/sol-lewitt/), [3](https://solvingsol.com/) by Sol LeWitt.
+
+[The conditional design manifesto](https://conditionaldesign.org/manifesto/)
 
 [Line Describing a cone](https://vimeo.com/155042007), by Anthony McCall.
 
