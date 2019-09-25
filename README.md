@@ -2,7 +2,8 @@
 
 How little is needed to create a visual composition? this course will focus on how to obtain generative forms with the smallest amount of code possible.
 
-The goal of this course is to explore simplicyt 
+
+
 You, your keyboard and the quest for the smallest set of instruction that draws on a computer screen.
 
 ![cover](img/cover-small.png)
@@ -30,7 +31,12 @@ P.S.
 
 [Grapefruit](https://en.wikipedia.org/wiki/Grapefruit_(book)), by Yoko Ono.
 
-[Line Describing a cone](https://vimeo.com/155042007)
+[Wall Drawings](https://solvingsol.com/), by Sol LeWitt.
+
+[Line Describing a cone](https://vimeo.com/155042007), by Anthony McCall.
+
+[ASDFG](https://vimeo.com/10009063), by Jodi.
+
 
 
 
