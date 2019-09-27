@@ -15,7 +15,7 @@ The students will code sets of rules and instructions to draw lines, squares, po
 Create a sketch using your favourite creative coding framework (Processing, openFrameworks, three.js, paper.js, p5.js, nannou, you name it), using only 5 lines of code.
 
 - Read the wikipedia article on [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
-- Write down on a piece of paper what each line is doing, as you were explain your code to a rubber duck.
+- Write down on a piece of paper what each line is doing, as you were explaining your code to a rubber duck.
 - Propose 3 variations of your sketch. For each variation write down what did you change and how it affects the visual output.
 
 P.S.
