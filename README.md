@@ -19,8 +19,9 @@ Create a sketch using your favourite creative coding framework (Processing, open
 - Propose 3 variations of your sketch. For each variation write down what did you change and how it affects the visual output.
 
 P.S.
-- The 5 lines of code have to be in the `draw` method. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, or that one that in Processing goes into the `setup` method, does not count.
-- Each line can not be longer than 80 chars, space included.
+- The 5 lines of code have to be in the `draw` method. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, does not count. The same applies for the code that in Processing goes into the `setup` method.
+
+- Each line can not be longer than 80 chars, spaces included.
 
 ## References
 
