@@ -1,7 +1,7 @@
 # Lines from rules
 
-How little is needed to create a visual composition? this course focuses on how to obtain generative forms with the smallest amount of code possible.
-The students will code sets of rules and instructions to draw lines, squares, points and circles, with a particular eye on simplicity and readability.
+How little is needed to create a visual composition? How many lines of code are necessary to make an interactive installation? this course focuses on maximize efforts, how to obtain the best result with the smallest amount of code possible.
+The students will code sets of rules and instructions to draw lines, to blink leds or to activate servomotors, with a particular eye on simplicity and readability.
 
 ![cover](img/cover-small.png)
 
