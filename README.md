@@ -16,7 +16,8 @@ Create a sketch using your favourite creative coding framework (Processing, open
 
 - Read the wikipedia article on [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 - Write down on a piece of paper what each line is doing, as you were explaining your code to a rubber duck.
-- Propose 3 variations of your sketch. For each variation write down what did you change and how it affects the visual output.
+- Make 3 variations of your sketch.
+- Pick one that one that you like mostly. You will polish it and make it presentable the 23 of October.
 
 P.S.
 - The 5 lines of code have to be in the `draw` method, or in the `loop` method if you are working with Arduino. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, does not count. The same applies for the code that in Processing and in Arduino goes into the `setup` method.
