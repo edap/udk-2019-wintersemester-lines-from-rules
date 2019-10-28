@@ -47,27 +47,17 @@ Rules of the day:
 
 ### References
 
-[cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
-
-[Daniel Shiffman video](https://www.youtube.com/watch?v=DKGodqDs9sA)
-
-[Rule 110](https://en.wikipedia.org/wiki/Rule_110)
-
-[Rule 90](https://en.wikipedia.org/wiki/Rule_90)
-
-[Brian's Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
-
-[Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-
-[Von Neumann cellular automaton](https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton)
-
-[Alexander Galloway on Nils Barricelli](http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf)
-
-[Nils Barricelli on Dataisnature](https://www.dataisnature.com/?p=1448)
-
-[George Dyson: The birth of the computer](https://www.youtube.com/watch?v=EF692dBzWAs)
-
-[George Dyson, Darwin among the machines](https://www.edge.org/conversation/george_dyson-darwin-among-the-machines-or-the-origins-of-artificial-life)
+- [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
+- [Daniel Shiffman video](https://www.youtube.com/watch?v=DKGodqDs9sA)
+- [Rule 110](https://en.wikipedia.org/wiki/Rule_110)
+- [Rule 90](https://en.wikipedia.org/wiki/Rule_90)
+- [Brian's Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
+- [Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- [Von Neumann cellular automaton](https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton)
+- [Alexander Galloway on Nils Barricelli](http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf)
+- [Nils Barricelli on Dataisnature](https://www.dataisnature.com/?p=1448)
+- [George Dyson: The birth of the computer](https://www.youtube.com/watch?v=EF692dBzWAs)
+- [George Dyson, Darwin among the machines](https://www.edge.org/conversation/george_dyson-darwin-among-the-machines-or-the-origins-of-artificial-life)
 
 
 
