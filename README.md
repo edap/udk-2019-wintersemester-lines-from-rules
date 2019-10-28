@@ -1,7 +1,7 @@
 # Lines from rules
 
-How little is needed to create a visual composition? this course focuses on how to obtain generative forms with the smallest amount of code possible.
-The students will code sets of rules and instructions to draw lines, squares, points and circles, with a particular eye on simplicity and readability.
+How little is needed to create a visual composition? How many lines of code are necessary to make an interactive installation? this course focuses on maximize efforts, how to obtain the best result with the smallest amount of code possible.
+The students will code sets of rules and instructions to draw lines, to blink leds or to activate servomotors, with a particular eye on simplicity and readability.
 
 ![cover](img/cover-small.png)
 
@@ -12,15 +12,17 @@ The students will code sets of rules and instructions to draw lines, squares, po
 
 ## First week assignement
 
-Create a sketch using your favourite creative coding framework (Processing, openFrameworks, three.js, paper.js, p5.js, nannou, you name it), using only 5 lines of code.
+Create a sketch using your favourite creative coding framework (Processing, openFrameworks, three.js, paper.js, p5.js, nannou, arduino IDE, you name it), using only 5 lines of code.
 
 - Read the wikipedia article on [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
-- Write down on a piece of paper what each line is doing, as you were explain your code to a rubber duck.
-- Propose 3 variations of your sketch. For each variation write down what did you change and how it affects the visual output.
+- Write down on a piece of paper what each line is doing, as you were explaining your code to a rubber duck.
+- Make 3 variations of your sketch.
+- Pick one that one that you like mostly. You will polish it and make it presentable the 23 of October.
 
 P.S.
-- The 5 lines of code have to be in the `draw` method. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, or that one that in Processing goes into the `setup` method, does not count.
-- Each line can not be longer than 80 chars, space included.
+- The 5 lines of code have to be in the `draw` method, or in the `loop` method if you are working with Arduino. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, does not count. The same applies for the code that in Processing and in Arduino goes into the `setup` method.
+
+- Each line can not be longer than 80 chars, spaces included.
 
 ### References
 
