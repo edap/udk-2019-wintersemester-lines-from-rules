@@ -22,7 +22,7 @@ P.S.
 - The 5 lines of code have to be in the `draw` method. Any code related to resources inizialization, like the code that in an openFrameworks application goes into the `ofApp.h` file, or that one that in Processing goes into the `setup` method, does not count.
 - Each line can not be longer than 80 chars, space included.
 
-## References
+### References
 
 [The Minimalist Manifesto](http://atc.berkeley.edu/201/readings/judd-so.pdf), by Donald Judd.
 
@@ -35,6 +35,28 @@ P.S.
 [Line Describing a cone](https://vimeo.com/155042007), by Anthony McCall.
 
 [ASDFG](https://vimeo.com/10009063), by Jodi.
+
+## 30 October. The Grid
+
+Rules of the day:
+- Make a grid. Start with a small grid, like 30x30. Make it bigger later.
+- Initialize each cell of the grid with a value. It can be whatever, a color, a number, a sound, a string, a led turned on or a switch button.
+- Invent 3 rules for which each cell interacts with the other cells and eventually change. Those 3 rules can not be espressed in more than 5 lines of code, each line of code can not be longer than 80 chars. (from now on, we will refer to this last rule as `the 5 LOC rule`).
+
+### References
+
+[cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
+[Daniel Shiffman video](https://www.youtube.com/watch?v=DKGodqDs9sA)
+[Rule 110](https://en.wikipedia.org/wiki/Rule_110)
+[Rule 90](https://en.wikipedia.org/wiki/Rule_90)
+[Brian's Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
+[Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[Von Neumann cellular automaton](https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton)
+[Alexander Galloway on Nils Barricelli](http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf)
+[Nils Barricelli on Dataisnature](https://www.dataisnature.com/?p=1448)
+[George Dyson: The birth of the computer](https://www.youtube.com/watch?v=EF692dBzWAs)
+[George Dyson, Darwin among the machines](https://www.edge.org/conversation/george_dyson-darwin-among-the-machines-or-the-origins-of-artificial-life)
+
 
 
 
