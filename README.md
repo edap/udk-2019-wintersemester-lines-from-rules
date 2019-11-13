@@ -59,6 +59,39 @@ Rules of the day:
 - [George Dyson: The birth of the computer](https://www.youtube.com/watch?v=EF692dBzWAs)
 - [George Dyson, Darwin among the machines](https://www.edge.org/conversation/george_dyson-darwin-among-the-machines-or-the-origins-of-artificial-life)
 
+## 6 November. The Grid, but without cells.
+
+Let's make a step back and let's remove the cells from the grid. Consider a grid simply as a defined number of lines, not necessary of the same with, crossing each other at a certain angle.
+
+Rules of the day pt. 1:
+- You have to use lines.
+- Each line have to be a bit different from the others.
+- Animate the grid.
+
+Rules of the day pt. 2:
+- You can use just circles, or square or triangles.
+- Animate the grid.
+- Use at least 4 colors, black and white are not allowed.
+
+## 13 and 20 November. Accumulation, repetition, overlapping
+
+Rules of the day:
+- Define a system in which you can represent 0 or a finite number of elements.
+- The total number of elements in your system grows as times goes by.
+- At a given limit, your system is reset, and the total number of element goes to 0.
+- Respect the `5 LOC Rule`
+
+### References
+- [yayoi kusama accumulation series](https://www.google.com/search?q=yayoi+kusama+accumulation+series&client=firefox-b-d&source=lnms)
+- [Tara Donovan](https://en.wikipedia.org/wiki/Tara_Donovan), [2](https://www.studiointernational.com/index.php/tara-donovan-interview-compositions-cards)
+- [Wolfgang Laib’s Pollen from Hazelnut ](https://www.moma.org/calendar/exhibitions/1315)
+
+<!-- ## 27 November & 4 December. Attractions
+
+## 11 and 18 December. The smallest neural network. -->
+
+
+
 
 
 
