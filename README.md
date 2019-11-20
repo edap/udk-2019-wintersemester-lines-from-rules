@@ -85,6 +85,7 @@ Rules of the day:
 - [yayoi kusama accumulation series](https://www.google.com/search?q=yayoi+kusama+accumulation+series&client=firefox-b-d&source=lnms)
 - [Tara Donovan](https://en.wikipedia.org/wiki/Tara_Donovan), [2](https://www.studiointernational.com/index.php/tara-donovan-interview-compositions-cards)
 - [Wolfgang Laib’s Pollen from Hazelnut ](https://www.moma.org/calendar/exhibitions/1315)
+- [Katamari Damacy](https://www.youtube.com/watch?v=JHsFcSNFUMc)
 
 <!-- ## 27 November & 4 December. Attractions
 
