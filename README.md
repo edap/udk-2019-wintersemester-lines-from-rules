@@ -97,8 +97,8 @@ Rules of the day:
 
 ### References
 
-- [Daniel Brown, Travelling by Numbers](http:// ic.kr/s/aHskyNR2Tz)
-- [Fractional noise mountains Mandelbrot and Richard F. Voss](http:// www.wired.com/2013/01/mandelbrot-images/)
+- [Daniel Brown, Travelling by Numbers](http://ic.kr/s/aHskyNR2Tz)
+- [Fractional noise mountains Mandelbrot and Richard F. Voss](http://www.wired.com/2013/01/mandelbrot-images/)
 - [In Jared Tarbell’s classic Substrate](http://www.complexication.net/gallery/machines/substrate/)
 - [Everest Pipkin,Mirror Lake](http://katierose.itch.io/mirrorlake)
 - [Kristyn Janae Solie’s Lonely Planets](http://www.kyttenjanae.com/)
