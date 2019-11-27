@@ -102,6 +102,7 @@ Rules of the day:
 - [In Jared Tarbell’s classic Substrate](http://www.complexication.net/gallery/machines/substrate/)
 - [Everest Pipkin,Mirror Lake](http://katierose.itch.io/mirrorlake)
 - [Kristyn Janae Solie’s Lonely Planets](http://www.kyttenjanae.com/)
+- [Catacomb of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
 
 <!--  ## 11 and 18 December. The smallest neural network. -->
 
