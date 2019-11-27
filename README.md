@@ -87,9 +87,23 @@ Rules of the day:
 - [Wolfgang Laib’s Pollen from Hazelnut ](https://www.moma.org/calendar/exhibitions/1315)
 - [Katamari Damacy](https://www.youtube.com/watch?v=JHsFcSNFUMc)
 
-<!-- ## 27 November & 4 December. Attractions
+## 27 November & 4 December. Landscapes
 
-## 11 and 18 December. The smallest neural network. -->
+Rules of the day:
+- Create an abstract landscape, details are not important, try to give a sense of depth.
+- You can use just two colors.
+- Respect the `5 LOC Rule`.
+
+
+### References
+
+- [Daniel Brown, Travelling by Numbers](http:// ic.kr/s/aHskyNR2Tz)
+- [Fractional noise mountains Mandelbrot and Richard F. Voss](http:// www.wired.com/2013/01/mandelbrot-images/)
+- [In Jared Tarbell’s classic Substrate](http://www.complexication.net/gallery/machines/substrate/)
+- [Everest Pipkin,Mirror Lake](http://katierose.itch.io/mirrorlake)
+- [Kristyn Janae Solie’s Lonely Planets](http://www.kyttenjanae.com/)
+
+<!--  ## 11 and 18 December. The smallest neural network. -->
 
 
 
