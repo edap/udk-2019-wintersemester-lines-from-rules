@@ -104,7 +104,37 @@ Rules of the day:
 - [Kristyn Janae Solie’s Lonely Planets](http://www.kyttenjanae.com/)
 - [Catacomb of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
 
-<!--  ## 11 and 18 December. The smallest neural network. -->
+## 11 December. Alphabet and L-Systems
+[the algorithmic botany archive](http://algorithmicbotany.org/papers/abop/abop.pdf)
+[Circular Gallifreyan ](http://timeturners.wikidot.com/circular-gallifreyan)
+[Arrival, Wolfram](https://blog.wolfram.com/2017/01/31/analyzing-and-translating-an-alien-language-arrival-logograms-and-the-wolfram-language/)
+[every combination of incomplete cube sol lewitt](https://www.matsys.design/incomplete-cubes)
+
+<!-- ## 11 and 18 December. Patterns
+
+Rules of the day:
+- Create a pattern of at least 16 elements.
+- Respect the `5 LOC Rule`.
+
+### References
+- [Escher](https://mcescher.com/gallery/symmetry/)
+- [African Wax Prints](https://en.wikipedia.org/wiki/African_wax_prints)
+- [true false by Onformative](https://onformative.com/work/true-false)
+- [Harm Van Der Dorpel, pattern and presence](https://harmvandendorpel.com/pattern-and-presence)
+- [Saskia Freeke daily art](http://sasj.nl/daily/)
+- [Tessellation Wiki](https://en.wikipedia.org/wiki/Tessellation)
+- [Book about tessellation](http://www.tess-elation.co.uk/book-reviews/designing-and-drawing-tessellations) -->
+
+
+<!-- ## 11 and 18 December. The smallest neural network.  -->
+
+<!-- 
+## Divide and conquer
+Voronoi and other subdivision alg 
+https://rosettacode.org/wiki/Voronoi_diagram#C.2B.2B
+-->
+
+<!-- https://github.com/d3p/algorithmic-cliches -->
 
 
 
