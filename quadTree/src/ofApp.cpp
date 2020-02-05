@@ -7,7 +7,7 @@ void ofApp::setup(){
     quadtree = Quadtree(0, w, 0, h, 1);
 
     vector<ofPoint> points;
-    for (int i = 0; i < 200; i++) {
+    for (int i = 0; i < 800; i++) {
         auto point = ofPoint(ofRandom(w), ofRandom(h));
         quadtree.add(point);
     }
@@ -30,7 +30,8 @@ void ofApp::draw(){
 
     vector<ofPoint> result;
     quadtree.query(mouseX, mouseY, 300, 300, result);
+    ofFill();
     for(auto r:result){
-        ofDrawCircle(r.x, r.y, 5);
+        ofDrawCircle(r.x, r.y, 3);
     }
 }

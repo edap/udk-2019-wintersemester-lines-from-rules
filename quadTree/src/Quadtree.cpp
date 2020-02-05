@@ -20,7 +20,7 @@ Quadtree::Quadtree(float min_x, float max_x, float min_y, float max_y, int _capa
 }
 
 Quadtree::~Quadtree() {
-    if(hasChildren) {
+    if (hasChildren) {
         delete northwest;
         delete northeast;
         delete southwest;
@@ -76,7 +76,7 @@ bool Quadtree::intersects(float _x, float _y, float _w, float _h){
 };
 
 bool Quadtree::contains(float _x, float _y, float _w, float _h, ofPoint point){
-    return(
+    return (
         point.x >= _x &&
         point.x <= _x + _w &&
         point.y >= _y &&
